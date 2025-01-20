@@ -1,3 +1,7 @@
+Learning Javascript from The Odin Project
+Project: Rock, paper, scissors
+Foundations Course
+
 How to Run the Game
 Open your browser console (F12 > Console).
 Ensure the script.js file contains the complete code.
